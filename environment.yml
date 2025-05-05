@@ -1,0 +1,22 @@
+name: cmdstan
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - pip
+  - numpy
+  - pandas
+  - geopandas
+  - contextily
+  - requests
+  - shapely
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - scikit-learn
+  - cmdstanpy=1.2.5
+  - ipywidgets
+  - arviz=0.21.0
+
+
